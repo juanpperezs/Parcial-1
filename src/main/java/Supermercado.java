@@ -1,9 +1,6 @@
 public class Supermercado {
     public static void main(String[] args) {
-
-        System.out.println("Hola Jero");
-        System.out.println("Tamarindo");
-
-        System.out.println("Hola muchachos");
+        String putaMierda= "Puta mierda";
+        System.out.println(putaMierda);
     }
 }
