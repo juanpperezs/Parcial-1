@@ -3,5 +3,9 @@ public class Supermercado {
 
         System.out.println("Hola Jero");
         System.out.println("Tamarindo");
+
+        System.out.println("Hola broder");
+
+        System.out.println("Tamarindo 2");
     }
 }
