@@ -5,5 +5,6 @@ public class Supermercado {
         System.out.println("Tamarindo");
         System.out.println("Ayuda no se que hago");
         System.out.println("Esto se ve?");
+        System.out.println("Que tal esto?");
     }
 }
